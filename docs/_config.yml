@@ -2,3 +2,7 @@
 title: Minecraft Redstone Guide
 description: A complete guide to using redstone in Minecraft Java Edition.
 theme: jekyll-theme-minimal
+
+# Custom CSS
+sass:
+  style: assets/css/style.scss
